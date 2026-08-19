@@ -1,4 +1,5 @@
 # Commit_Mill ⚙️
+![CI](https://github.com/realMNohgee/Commit_Mill/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Conventional commits → changelog generator.** Parse, group, version-bump, and
 format release notes from conventional commits. Zero dependencies, pure Python
