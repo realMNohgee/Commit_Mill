@@ -9,6 +9,6 @@ jobs:
         with:
           python-version: '3.9'
       - name: Compile check
-        run: python3 -m py_compile Commit_Mill.py
+        run: python3 -m py_compile commit_mill.py
       - name: Smoke test (--help)
-        run: python3 Commit_Mill.py --help
+        run: python3 commit_mill.py --help
